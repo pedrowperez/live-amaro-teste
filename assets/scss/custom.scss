@@ -1,0 +1,28 @@
+.forminator-quiz-25.forminator-design--default .forminator-quiz--title,
+.forminator-quiz-25.forminator-design--default .forminator-question legend,
+.forminator-quiz-25.forminator-design--default .forminator-answer .forminator-answer--name,
+.hustle-ui .hustle-optin .hustle-layout .hustle-layout-content .hustle-content .hustle-title,
+.hustle-ui .hustle-optin .hustle-layout .hustle-layout-content .hustle-content .hustle-subtitle,
+.hustle-ui .hustle-button,
+.hustle-ui a.hustle-button,
+.hustle-ui button.hustle-button {
+    font-family: $font !important;
+}
+
+.hustle-ui .hustle-optin .hustle-layout .hustle-layout-content .hustle-content .hustle-title {
+    font-size: 28px !important;
+}
+
+.hustle-ui .hustle-field .hustle-input {
+    padding: 14px !important;
+    font-size: 26px !important;
+    height: initial !important;
+}
+
+.hustle-ui:not(.hustle-size--small) .hustle-optin.hustle-optin--compact .hustle-form.hustle-form-inline .hustle-button {
+    background: rgba(0, 0, 0, .2) !important;
+    color: white;
+    height: auto;
+    padding: 16px;
+    font-size: 22px;
+}
